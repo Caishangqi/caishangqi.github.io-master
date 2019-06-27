@@ -45,15 +45,6 @@ baidu:
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
-})
-
-var sjs = SimpleJekyllSearch({ ...options })
-sjs.search('Hello')
-
 permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
