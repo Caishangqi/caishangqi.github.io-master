@@ -31,5 +31,7 @@ title: 关于沉浸书房
 
 <p>
 <img src="https://media.forgecdn.net/attachments/64/687/img_0008_layer-11.jpg" >
+<p>
+<img src="https://raw.githubusercontent.com/Tollainmear/PicRepo/master/0_SitTpa4q.png">
 
 {% include comments.html %}
