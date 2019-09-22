@@ -13,15 +13,15 @@ title: 关于沉浸书房
 
 <p>
 
-这是一个基于Minecraft 1.12.2 forge的Sponge服务器
+这是一个基于Minecraft 1.12.2 forge的服务器
 
 <p>
 
-SpongeForge作为新一代高版本MOD核心,拥有很好的稳定性及兼容性
+服务器的初衷是学习及测试Minecraft神奇世界
 
 <p>
 
-探索开源代码所带来的无限可能性
+及探索开源代码所带来的无限可能性
 
 <p>
 

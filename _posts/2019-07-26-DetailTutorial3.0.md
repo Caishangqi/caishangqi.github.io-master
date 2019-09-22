@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecondTech 新手开局教程"
+title: "SecondTech 新手开局教程(旧版)"
 date: 2019-07-26
 description: "基础学科"
 tag: 教程
