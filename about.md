@@ -1,42 +1,38 @@
 ---
 layout: page
-title: 关于我 
+title: 关于沉浸书房 ⋙
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+这是一个记录服务器的温馨匣子,你可以在这里了解到服务器的所有信息
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+同时,这个书匣子分享我所学的python及Java的思路,欢迎指教。
 
 <p>
 
-<h3> 我们的博客 </h3>  
+<h3> 落魄科技SecondTech ▶ </h3>  
 
 <p>
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+此Minecraft服务器诞生于2018/6/20日,我的初衷是使用此服务器实现所学的知识和大家一起游玩各种自定义的服务器内容。同时,参与各种模组魔改的编写可以让我发现每个版本服务器的问题。
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
 
 <p>
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+SecondTech 不同于其他服务器,在无数次挑选合适的硬件及服务端后,我们将带给玩家一个完整流畅的冒险体验,当然,这是个公益服务器。
 
-<p> 
+<p>
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+如果你想更加深入的了解服务器，可以看
+<a target="_blank" href='https://space.bilibili.com/57935076/favlist?fid=472223476&ftype=create'>SecondTech 记录文件夹</a>
 
-<p> 
 
-<p> 
+<p>
 
-<p> 
+<img src="https://s2.ax1x.com/2019/11/12/M39vi6.png" >
+
+<p>
 
 
 {% include comments.html %}
-

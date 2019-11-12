@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SecondTech客户端配置文件修改总结"
+title: "SecondTech 客户端配置文件修改总结"
 date: 2019-06-28
 description: "配置文件修改"
 tag: 教程
