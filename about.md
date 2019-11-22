@@ -9,7 +9,7 @@ title: 关于沉浸书房 ⋙
 
 <p>
 
-<h3> 落魄科技SecondTech ﹥ </h3>  
+<h3> 落魄科技SecondTech ヾ(•ω•`)o </h3>  
 
 <p>
 
@@ -31,6 +31,7 @@ SecondTech 不同于其他服务器,在无数次挑选合适的硬件及服务�
 <p>
 
 <img src="https://s2.ax1x.com/2019/11/12/M39vi6.png" >
+
 
 <p>
 
