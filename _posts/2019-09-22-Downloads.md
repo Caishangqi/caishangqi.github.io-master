@@ -20,4 +20,7 @@ SecondTech 联盟 是一个***RPG枪械***服务器，在这里可以体验到**
 ### **SecondTech 载体**
 SecondTech 载体 搭载各种***大型整合包***,他们通常来自**[CurseForge](https://www.curseforge.com/minecraft/modpacks?filter-sort=4)**或者**[MCBBS中文论坛](https://www.mcbbs.net/forum.php)**
 
->* **下载地址: [百度云](https://pan.baidu.com/s/1lCRjTDSzRB_GnUfi5ohN4A)   ▶提取码: 56xv**
+> **⇥当前加载的整合包:|[SevTech:Ages3.1.6 Remake](https://www.curseforge.com/minecraft/modpacks/sevtech-ages)|**
+>* **下载地址: [百度云](https://pan.baidu.com/s/1qCQpg7U7ax4Sgw2Gvjwllw)   ▶提取码: gcus**
+
+>* **下载地址: [腾讯微云-无需第三方软件](链接：https://share.weiyun.com/5AAHIsJ)   ▶提取码: 135781**
