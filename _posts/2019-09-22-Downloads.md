@@ -23,4 +23,4 @@ SecondTech 载体 搭载各种***大型整合包***,他们通常来自**[CurseFo
 > **⇥当前加载的整合包:|[SevTech:Ages3.1.6 Remake](https://www.curseforge.com/minecraft/modpacks/sevtech-ages)|**
 >* **下载地址: [百度云](https://pan.baidu.com/s/1qCQpg7U7ax4Sgw2Gvjwllw)   ▶提取码: gcus**
 
->* **下载地址: [腾讯微云-无需第三方软件](链接：https://share.weiyun.com/5AAHIsJ)   ▶提取码: 135781**
+>* **下载地址: [腾讯微云-无需第三方软件](https://share.weiyun.com/5ociFUQ)   ▶提取码: dvmwcv**
