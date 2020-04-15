@@ -16,9 +16,9 @@ GonerAge 冶金复燃 是一个***中型休闲***服务器，作为GonerAge的�
 >* **项目地址: [冶金复燃 2.48](https://caishangqi.github.io/2019/11/RekindleOfGold/)**
 
 ### **GonerAge 载体服务器**
-GonerAge 载体服务器 搭载各种***大型整合包***,他们通常来自**[CurseForge](https://www.curseforge.com/minecraft/modpacks/gregblock)**
+GonerAge 载体服务器 搭载各种***大型整合包***,他们通常来自**[CurseForge](https://www.curseforge.com/minecraft)**
 
-> **⇥当前加载的整合包:|[Gregblock 2.2.1](https://www.curseforge.com/minecraft/modpacks/sevtech-ages)|**
+> **⇥当前加载的整合包:|[Gregblock 2.2.1](https://www.curseforge.com/minecraft/modpacks/gregblock)|**
 >* **下载地址: [坚果云](https://www.jianguoyun.com/p/DXygYywQqf3YBxipoI8D)   ▶ 访问密码: wjvrbh**
 
 >* **服务器IP地址: `kkk.fantang.cc:33333`**
