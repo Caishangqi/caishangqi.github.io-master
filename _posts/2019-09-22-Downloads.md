@@ -20,7 +20,7 @@ GonerAge 冶金复燃 是一个***中型休闲***服务器，作为GonerAge的�
 GonerAge 载体服务器 搭载各种***大型整合包***,他们通常来自**[CurseForge](https://www.curseforge.com/minecraft)**
 
 > **⇥当前加载的整合包:|[Gregblock 2.2.1](https://www.curseforge.com/minecraft/modpacks/gregblock)|**
->* **下载地址: [坚果云](https://www.jianguoyun.com/p/DXygYywQqf3YBxipoI8D)   ▶ 访问密码: wjvrbh**
->* **下载地址: [GoogleDrive](https://drive.google.com/file/d/1lJmQOO1jReecyWCw4oJBwbDTahNRcodb/view?usp=sharing)**
+>* **下载地址: [坚果云](https://www.jianguoyun.com/p/DZJii_MQqf3YBxiZnJAD)**
+>* **下载地址: [GoogleDrive](https://drive.google.com/file/d/1sJt4eYyOcocLCsF2tMbTa62w82h6XIK4/view?usp=sharing)**
 
 >* **服务器IP地址: `kkk.fantang.cc:33333`**
