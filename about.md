@@ -30,7 +30,7 @@ SecondTech 不同于其他服务器,在无数次挑选合适的硬件及服务�
 
 <p>
 
-<img src="https://s2.ax1x.com/2019/11/12/M39vi6.png" >
+<img src="https://s1.ax1x.com/2020/05/28/tVV7vt.png" >
 
 
 <p>
