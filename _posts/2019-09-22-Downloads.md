@@ -14,33 +14,8 @@ tag: 下载
 
 
 
-### **GonerAge 冶金复燃**
-GonerAge 冶金复燃 是一个***中型休闲***服务器，作为GonerAge的主服,此版本将不会停止维护及更新...
+### **GonerAge 蒸汽殖民IV周目**
+GonerAge 蒸汽殖民 是一个***中型休闲***服务器，作为GonerAge的主服,此版本将不会停止维护及更新...
 
->* **项目地址: [冶金复燃 2.48](https://caishangqi.github.io/2019/11/RekindleOfGold/)**
-
-### **GonerAge 载体服务器**
-GonerAge 载体服务器 搭载各种***大型整合包***,他们通常来自**[CurseForge](https://www.curseforge.com/minecraft)**
-
-**▣ GonerAge Engineering's Life 工程师生活**
-
-> **◉ 整合包信息 [Engineering's Life](https://www.curseforge.com/minecraft/modpacks/engineers-life)**  
-
-
->* **下载地址: [坚果云](https://www.jianguoyun.com/p/DX2ucIQQqf3YBxivwpkD)**  
->* **下载地址: [GoogleDrive](https://drive.google.com/file/d/1dgtiYL0r5r6ylCj3-O1UdsVq1yg7v2yZ/view?usp=sharing)**  
-
-
-> **▶服务器IP地址: `kkk.fantang.cc:24488`**  
-
-
-**▣ GonerAge GregBlock 格雷空岛**
-
-> **◉ 整合包信息 [Gregblock 2.2.1](https://www.curseforge.com/minecraft/modpacks/gregblock)**  
-
-
->* **下载地址: [坚果云](https://www.jianguoyun.com/p/DZJii_MQqf3YBxiZnJAD)**  
->* **下载地址: [GoogleDrive](https://drive.google.com/file/d/1sJt4eYyOcocLCsF2tMbTa62w82h6XIK4/view?usp=sharing)**  
-
-
-> **▶服务器IP地址: `kkk.fantang.cc:33333`**  
+>* **下载地址: [坚果云](https://www.jianguoyun.com/p/Dd7KUuUQqf3YBxi1vKQD)**
+>* **项目地址: [github](https://github.com/Caishangqi/GonerAge)**  
