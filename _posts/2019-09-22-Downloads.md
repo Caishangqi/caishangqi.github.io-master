@@ -15,7 +15,8 @@ tag: 下载
 
 
 ### **GonerAge 蒸汽殖民IV周目**
-GonerAge 蒸汽殖民 是一个***中型休闲***服务器，作为GonerAge的主服,此版本将不会停止维护及更新...
+GonerAge 蒸汽殖民 是一个***中型休闲***服务器，作为GonerAge的主服,此版本将不会停止维护,及更新...**(此服务器严惩作弊并且需要申请白名单)**
 
->* **下载地址: [坚果云](https://www.jianguoyun.com/p/Dd7KUuUQqf3YBxi1vKQD)**
->* **项目地址: [github](https://github.com/Caishangqi/GonerAge)**  
+>* **下载地址: [坚果云](https://www.jianguoyun.com/p/Df6DcmcQqf3YBxiSlacD)**
+>* **项目地址: [github](https://github.com/Caishangqi/GonerAge-IVworld)**
+>* **项目下载地址: [github](https://github.com/Caishangqi/GonerAge-IVworld/releases)**   
