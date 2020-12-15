@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "落魄冒险"
+description: "1.16.4硬核生存冒险"
 header-img: "img/home-bg.jpg"
 category: project1
 ---

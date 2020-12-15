@@ -1,6 +1,6 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: 落魄年代匣子
+description: "服务器官方记录匣子"
 url: "https://projectpages.github.io"
 
 
@@ -60,7 +60,7 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""           
+          value: ""
     _posts:
       - name: "subtitle"
         field:
@@ -102,7 +102,7 @@ prose:
         field:
           element: "text"
           label: "Project"
-          value: ""    
+          value: ""
       - name: "horizontal"
         field:
           element: "hidden"
@@ -126,13 +126,13 @@ prose:
             - name: "Blood"
               value: "blood"
             - name: "Moon"
-              value: "moon"          
+              value: "moon"
             - name: "Night"
               value: "night"
             - name: "Sky"
               value: "sky"
             - name: "Solarized"
-              value: "solarized"             
+              value: "solarized"
       - name: "trans"
         field:
           element: "select"
@@ -144,13 +144,13 @@ prose:
             - name: "Page"
               value: "page"
             - name: "Concave"
-              value: "concave"          
+              value: "concave"
             - name: "Linear"
               value: "linear"
             - name: "Fade"
               value: "fade"
             - name: "None"
-              value: "none"             
+              value: "none"
       - name: "visualworkflow"
         field:
           element: "checkbox"
