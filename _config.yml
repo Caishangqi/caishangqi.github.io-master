@@ -1,13 +1,13 @@
 # Site settings
 title: 落魄年代匣子
 description: "服务器官方记录匣子"
-url: "https://projectpages.github.io"
+url: "https://caishangqi.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/caishangqi.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
