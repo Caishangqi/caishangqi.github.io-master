@@ -24,6 +24,13 @@
   bio: 等待补充...
   visible: true
 
+- name: Wight
+  role: 成员 / 翻译官
+  img: https://s3.ax1x.com/2020/12/16/r1cnAO.jpg
+  github: davidbrough1
+  bio: 戴着来自于远古神秘文明的面具，蕴藏着强大力量的人；你永远也无法看清他的真实面目----即使他摘下了面具。"你还无法理解，你的所见"
+  visible: true
+
 - name: Surya R. Kalidindi
   role: Materials Informatics
   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
