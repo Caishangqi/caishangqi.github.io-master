@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      神奇宝贝Pixel介绍
+author:     Caishangqi
+tags: 		介绍 1.12.2 神奇宝贝
+subtitle:  	充满机遇的世界
+category:  project2
+---
+<!-- Start Writing Below in Markdown -->
+
+待施工...

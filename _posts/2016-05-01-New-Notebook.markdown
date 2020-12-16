@@ -1,10 +1,10 @@
 ---
 layout:     notebook
 title:      New Notebook
-author:     Ahmet Cecen
+author:     Caishangqi
 tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
-category:  project1
+category:  project3
 
 notebookfilename: intro
 visualworkflow: true

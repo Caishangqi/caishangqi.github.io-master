@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "关于"
-description: "Why use Project Pages?"
+description: "为什么要建立?"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+我自己都没有想好为什么突然建立服务器，就挺突然的，也挺有趣的。
