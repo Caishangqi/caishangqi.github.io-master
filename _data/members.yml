@@ -1,18 +1,17 @@
 # Members
-
+# gplus 就是bilibili改了
 - name: Caishangqi
   role: 创立人 / 技术人员
   img: https://s3.ax1x.com/2020/12/16/rQvzKP.jpg
   github: Caishangqi
   bio: 2018年不小心开了个服,就一直开到了现在。"该死，入了一个大坑..."他是这样说到的。
-  url: https://github.com/Caishangqi
+  gplus: https://space.bilibili.com/57935076
   visible: true
 
 - name: Wuxinxi
   role: 数据管理 / 打工人
   img: https://s3.ax1x.com/2020/12/16/rlCGBq.jpg
   github: Wuxinxi
-  gplus: www.example.com
   bio: 被逮到然后打工,也挺突然的。主要负责代码层面的编写。“为什么不能上传我的大头照?”
   url: https://github.com/Rubywu-Xin
   visible: true

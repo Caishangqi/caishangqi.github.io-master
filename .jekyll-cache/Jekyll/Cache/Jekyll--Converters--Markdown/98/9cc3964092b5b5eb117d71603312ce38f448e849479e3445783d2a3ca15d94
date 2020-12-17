@@ -1,7 +1,7 @@
-I"≠‹
-<script src="/caishangqi.github.io/js/mermaid.min.js"></script>
+I"É‹
+<script src="/js/mermaid.min.js"></script>
 
-<link rel="stylesheet" href="/caishangqi.github.io/css/mermaid.forest.css" />
+<link rel="stylesheet" href="/css/mermaid.forest.css" />
 
 <script>mermaid.initialize({startOnLoad:true});</script>
 
