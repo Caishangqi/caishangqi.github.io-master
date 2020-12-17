@@ -10,7 +10,7 @@ url: "https://caishangqi.github.io"
 baseurl: "/caishangqi.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /caishangqi.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: https://s3.ax1x.com/2020/12/18/rGW6u4.jpg
 
 # Tertiary Parameters
 github_username:  projectpages
