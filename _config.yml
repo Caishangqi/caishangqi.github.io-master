@@ -8,9 +8,9 @@ url: "https://caishangqi.github.io"
 
 # Secondary Parameters
 baseurl: "/caishangqi.github.io"
-header-img: img/home-bg.jpg
+header-img: https://s3.ax1x.com/2020/12/18/rGW6u4.jpg
 headercolor: "#FFFFFF"
-logo: https://s3.ax1x.com/2020/12/18/rGW6u4.jpg
+logo: https://s3.ax1x.com/2020/12/18/rGf9Kg.png
 
 # Tertiary Parameters
 github_username:  projectpages
