@@ -9,6 +9,7 @@ category:  project1
 <!-- Start Writing Below in Markdown -->
 # ABOUT GonerAge Adventure
 
+[![rcSTYt.md.png](https://s3.ax1x.com/2020/12/23/rcSTYt.md.png)](https://imgchr.com/i/rcSTYt)
 
 > 沉浸在这份美好的真实当中...
 
